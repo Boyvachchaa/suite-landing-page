@@ -28,7 +28,7 @@ COMMON
 }
 
 .h1-dark {
-  color: var(--clr-dark-blue);
+  color: #fff;
 }
 
 .h1-bold {
@@ -118,6 +118,7 @@ COMMON
 }
 
 .btn {
+  color: #fff;
   font-weight: var(--fw-700);
   padding: 0.8em 1.2em;
   border-radius: 0.3rem;
@@ -133,9 +134,9 @@ COMMON
 
 .btn-light {
   background-color: inherit;
-  color: #172339;
+  // color: #172339;
   border: 0.0625rem solid var(--clr-dark-blue);
-  color: var(--clr-dark-blue);
+  // color: var(--clr-dark-blue);
   
   &:hover {
     background-color: var(--clr-dark-blue);
