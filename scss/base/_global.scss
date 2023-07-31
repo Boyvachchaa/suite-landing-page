@@ -132,7 +132,8 @@ COMMON
 }
 
 .btn-light {
-  background-color: transparent;
+  background-color: inherit;
+  color: #172339;
   border: 0.0625rem solid var(--clr-dark-blue);
   color: var(--clr-dark-blue);
   
