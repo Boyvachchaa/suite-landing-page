@@ -308,7 +308,7 @@ COMMON
 
 .btn-dark {
   background-color: var(--clr-dark-blue);
-  color: var(--clr-light-gray);
+  color: #172339;
   border: 0.375rem;
 }
 .btn-dark:hover {
